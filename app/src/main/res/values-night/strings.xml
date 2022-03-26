@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo_ventana">Numero Aleatorio</string>
+    <string name="lbl_valor">0</string>
+    <string name="btn_lanzar">Lanzar</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practic2ImageView</string>
+    <string name="titulo_ventana">Numero Aleatorio</string>
+    <string name="lbl_valor">0</string>
+    <string name="lbl_otrovalor">0</string>
+    <string name="btn_lanzar">Lanzar</string>
+</resources>
